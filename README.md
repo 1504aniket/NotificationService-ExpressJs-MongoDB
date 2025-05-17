@@ -46,7 +46,7 @@ NotificationService/
 ## 🔧 Setup Instructions
 
 ### 1. Clone the repo
-git clone https://github.com/your-username/notification-service.git
+git clone https://github.com/1504aniket/NotificationService-ExpressJs-MongoDB.git
 cd notification-service
 
 2. Install dependencies
